@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7e9dffb-cea1-4f97-8883-054e5145d4b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/front/src/views/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FullStack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST" beforeDir="false" afterPath="$PROJECT_DIR$/API REST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.idea/API REST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/dogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/dogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API REST/src/dogs/dogs_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/API REST/src/dogs/dogs_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front" beforeDir="false" afterPath="$PROJECT_DIR$/front" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/front/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/services/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/services/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/views/dogEdit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/dogEdit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/views/dogNew.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/dogNew.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/views/dogs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/dogs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/views/register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/register.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/API REST" />
+  </component>
+  <component name="ProjectId" id="1rn8JRLKYiwvsNhDNuXwGfDccg1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e9dffb-cea1-4f97-8883-054e5145d4b3" name="Default Changelist" comment="" />
+      <created>1619600424090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619600424090</updated>
+      <workItem from="1619600426461" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
